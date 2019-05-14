@@ -1,0 +1,26 @@
+{
+
+"assimilation_rate": 0.4,
+
+"revolution_rate": 0.1,
+
+"alpha_rate": 0.8,
+	
+"revolution_probability": 0.2,
+	
+"neighbourhood_radius": 0.1,
+	
+"constant_gravitation": 6.672,
+	
+"number_of_items": 9,
+	
+"number_of_choices": 2,
+	
+"number_of_iterations": 10,
+	
+"number_of_countries": 300,
+	
+"number_of_empires": 20
+
+
+}
